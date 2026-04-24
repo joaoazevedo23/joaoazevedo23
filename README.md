@@ -11,7 +11,7 @@ Desenvolvedor focado em backend, construção de sistemas eficientes e sempre ex
 
 ### 💻 Stack Técnica
 - **Linguagens:** TypeScript, JavaScript, Python, C.
-- **Backend & Web:** Nest.js, Node.js, HTML/SCSS.
+- **Backend & Web:** Nest.js, Node.js, React.js, HTML/SCSS.
 - **Ferramentas e Ambiente:** Git, GitHub, VS Code, Linux.
 
 ### 📊 Estatísticas e Contribuições
