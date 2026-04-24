@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o João Azevedo 👋
 
-<!--
-**joaoazevedo23/joaoazevedo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em backend, construção de sistemas eficientes e sempre explorando novas lógicas, arquiteturas e a área de segurança da informação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Sobre Mim
+- 🎓 Estudante de **Sistemas de Informação** na **USP Leste (EACH)**.
+- 🛠️ Técnico em Desenvolvimento de Sistemas pela **ETEC de Guarulhos**.
+- 🚀 Foco atual no ecossistema Node, especialmente no desenvolvimento de APIs com **Nest.js**.
+
+### 💻 Stack Técnica
+- **Linguagens:** TypeScript, JavaScript, Python, C.
+- **Backend & Web:** Nest.js, Node.js, HTML/SCSS.
+- **Ferramentas e Ambiente:** Git, GitHub, VS Code, Linux.
+
+### 📊 Estatísticas e Contribuições
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaoazevedo23&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+### 📫 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/joao-paulo-azevedo-si/)
+- [E-mail](mailto:azevedo.jpf@gmail.com)
+
+---
+*"Nada vence um homem paciente, além de um bug persistente..."*
