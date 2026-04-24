@@ -1,4 +1,4 @@
-# Olá, eu sou o João Azevedo 👋
+# Prazer, João Azevedo na área 🚀
 
 Desenvolvedor focado em backend, construção de sistemas eficientes e sempre explorando novas lógicas, arquiteturas e a área de segurança da informação.
 
