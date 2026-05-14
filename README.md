@@ -7,6 +7,7 @@ Desenvolvedor focado em backend, construção de sistemas eficientes e sempre ex
 ### 🔍 Sobre Mim
 - 🎓 Estudante de **Sistemas de Informação** na **USP Leste (EACH)**.
 - 🛠️ Técnico em Desenvolvimento de Sistemas pela **ETEC de Guarulhos**.
+- 💀 Membro do **[E]ACH in the Shell**, entidade focada em cibersegurança da USP
 - 🚀 Foco atual no ecossistema Node, especialmente no desenvolvimento de APIs com **Nest.js**.
 
 ### 💻 Stack Técnica
